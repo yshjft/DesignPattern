@@ -1,6 +1,6 @@
-package command_pattern.lamp;
+package d4_command.lamp;
 
-import command_pattern.Command;
+import d4_command.Command;
 
 // concrete command
 public class LampOnCommand implements Command {

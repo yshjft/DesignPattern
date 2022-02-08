@@ -1,4 +1,4 @@
-package command_pattern.alarm;
+package d4_command.alarm;
 
 // receiver
 public class Alarm {

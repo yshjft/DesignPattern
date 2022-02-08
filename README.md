@@ -3,9 +3,15 @@
 
 ## Singleton Pattern
 
+
 ## Strategy Pattern
+
 
 ## State Pattern
 
+
 ## Command Pattern
 [Command Pattern 코드 출처](https://gmlwjd9405.github.io/2018/07/07/command-pattern.html)
+
+## Adapter Pattern
+[Adapter Pattern 코드 출처](https://kscory.com/dev/design-pattern/adapter)

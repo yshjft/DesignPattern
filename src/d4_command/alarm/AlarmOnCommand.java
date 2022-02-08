@@ -1,6 +1,6 @@
-package command_pattern.alarm;
+package d4_command.alarm;
 
-import command_pattern.Command;
+import d4_command.Command;
 
 // concrete command
 public class AlarmOnCommand implements Command {

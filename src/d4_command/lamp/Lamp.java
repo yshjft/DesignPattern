@@ -1,4 +1,4 @@
-package command_pattern.lamp;
+package d4_command.lamp;
 
 // receiver
 public class Lamp {

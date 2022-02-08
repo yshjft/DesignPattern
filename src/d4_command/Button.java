@@ -1,4 +1,4 @@
-package command_pattern;
+package d4_command;
 
 // invoker
 public class Button {
