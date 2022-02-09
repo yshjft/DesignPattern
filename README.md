@@ -2,7 +2,7 @@
 디자인 패턴 학습을 위해 클론 코딩을 진행합니다. 
 
 ## Singleton Pattern
-[Singleton Pattern 코드 출처1](https://limkydev.tistory.com/67)
+[Singleton Pattern 코드 출처1](https://limkydev.tistory.com/67)    
 [Singleton Pattern 코드 출처2](https://iskull-dev.tistory.com/40?category=904213)
 
 ## Strategy Pattern
