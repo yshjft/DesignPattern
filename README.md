@@ -6,7 +6,7 @@
 [Singleton Pattern 코드 출처2](https://iskull-dev.tistory.com/40?category=904213)
 
 ## Strategy Pattern
-
+[Strategy Pattern 코드 출처](https://gmlwjd9405.github.io/2018/07/06/strategy-pattern.html)
 
 ## State Pattern
 
