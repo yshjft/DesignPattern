@@ -8,8 +8,9 @@
 ## Strategy Pattern
 [Strategy Pattern 코드 출처](https://gmlwjd9405.github.io/2018/07/06/strategy-pattern.html)
 
-## State Pattern
-
+## State Pattern    
+[State Pattern 코드 출처1](https://victorydntmd.tistory.com/294)
+[State Pattern 코드 출처2](https://github.com/KWSStudy/Refactoring/issues/2)
 
 ## Command Pattern
 [Command Pattern 코드 출처](https://gmlwjd9405.github.io/2018/07/07/command-pattern.html)
