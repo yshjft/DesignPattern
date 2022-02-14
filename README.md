@@ -17,3 +17,6 @@
 
 ## Adapter Pattern
 [Adapter Pattern 코드 출처](https://kscory.com/dev/design-pattern/adapter)
+
+## Proxy Pattern
+[Proxy Pattern 코드 출처](https://coding-factory.tistory.com/711)
