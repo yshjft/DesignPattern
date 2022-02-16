@@ -22,4 +22,7 @@
 [Proxy Pattern 코드 출처](https://coding-factory.tistory.com/711)
 
 ## Facade Pattern
-[Facade Pattern 코드 출처](https://imasoftwareengineer.tistory.com/29)
+[Facade Pattern 코드 출처](https://imasoftwareengineer.tistory.com/29)    
+
+## Template Method Pattern 
+[Template Method Pattern 코드 출처](https://gmlwjd9405.github.io/2018/07/13/template-method-pattern.html)
