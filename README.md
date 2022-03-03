@@ -26,3 +26,7 @@
 
 ## Template Method Pattern 
 [Template Method Pattern 코드 출처](https://gmlwjd9405.github.io/2018/07/13/template-method-pattern.html)
+
+
+## Factory Method Pattern
+[Factory Method Pattern 코드 출처](https://gdtbgl93.tistory.com/19)
