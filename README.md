@@ -29,4 +29,4 @@
 
 
 ## Factory Method Pattern
-[Factory Method Pattern 코드 출처](https://gdtbgl93.tistory.com/19)
+[Factory Method Pattern 코드 출처](https://gmlwjd9405.github.io/2018/08/07/factory-method-pattern.html)
