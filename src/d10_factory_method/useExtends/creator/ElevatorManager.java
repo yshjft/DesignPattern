@@ -18,6 +18,7 @@ public abstract class ElevatorManager {
         }
     }
 
+    // factoryMethod
     protected abstract ElevatorScheduler getScheduler();
 
     public void requestElevator(int destination, Direction direction) {
